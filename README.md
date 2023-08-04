@@ -1,4 +1,4 @@
-#Screen Shots:
+# Screen Shots:
 
 1). Desktop View:
 
