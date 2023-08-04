@@ -1,3 +1,8 @@
+#Description:
+
+Hello everyone, I created a new web app called as "QR Code Scanner". In this Web App, I Used "React JS" and "Tailwind CSS" for building this Web App. Finally, I deployed this project using "Netlify". Guys, everyone try to use "Vite". "Vite" is a frontend tool for building fast and optimized web applications.
+
+
 # Screen Shots:
 
 1). Desktop View:
