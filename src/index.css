@@ -1,0 +1,7 @@
+/*I had taken the 'Outfit' font from 'Google Fonts'. Here is the link of this font -> 'https://fonts.google.com/specimen/Outfit?query=outfit'.*/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+/*Tailwind Directives*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
